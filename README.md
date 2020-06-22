@@ -6,4 +6,5 @@ This page contains four main files:
 2. Neural_networks: Compute the partial dependence plots, variable importance plots, predictions and test losses (from the cross-validation) for neural networks and bias regulated neural networks.
 3. CANNs: Compute the partial dependence plots, variable importance plots, predictions and test losses (from the cross-validation) for fixed, flexible and bias regulated neural networks.
 4. Plots_and_model_lifts: contains the construction of every plot and visualization used in the thesis (model lifts, ordered Lorenz curves, comparison of out-of-sample predictions and some extra partial dependence plots and variable importance plots).
+
 The data needed used in these files is also included.
