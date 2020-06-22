@@ -1,2 +1,2 @@
 # Neural-networks-for-non-life-insurance-pricing
-This page contains the code used for my thesis: Neural networks for non-life insurance pricing.
+This page contains the code used for my thesis: Neural networks for non-life insurance pricing. The goal of my thesis is to compare neural networks and CANNs with generalized linear models (GLMs), generalized additive models (GAMs) and several tree-based machine learning methods being normal regression trees, random forests and gradient boosting machines (GBMs). 
